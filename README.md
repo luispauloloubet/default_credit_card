@@ -33,4 +33,6 @@ Diferente de suposições genéricas, a análise técnica revelou que os fatores
 O estudo conclui que o **histórico financeiro e o comportamento de uso do crédito** são os verdadeiros pilares para a análise de risco. Variáveis demográficas, embora relevantes, não devem ser o foco principal de um modelo de concessão de crédito de alta precisão.
 
 
-**Autor:** Luis Paulo Loubet  
+---
+**Desenvolvido por Luis Paulo Loubet** *Graduando em Engenharia Aeronáutica - EESC-USP*
+
